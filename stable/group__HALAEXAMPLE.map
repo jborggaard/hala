@@ -1,0 +1,4 @@
+<map id="HALA Examples" name="HALA Examples">
+<area shape="rect" id="node1" href="$group__HALAEXAMPLE1.html" title="Example of BLAS usage" alt="" coords="172,5,337,32"/>
+<area shape="rect" id="node2" href="$group__HALAEXAMPLE2.html" title="Example of GPU usage" alt="" coords="175,56,335,83"/>
+</map>
